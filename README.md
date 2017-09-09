@@ -1,3 +1,3 @@
-# basketball-counter
-With this app, you can keep track of two rival teams' scores on a basketball game.
+# coffee-app
+Exercise app, simply allows you to order coffee.
 //
